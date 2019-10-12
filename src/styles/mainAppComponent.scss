@@ -1,0 +1,17 @@
+@import './scssvariable.scss';
+.main-app{
+font-size:map-get($font-Size,"normal");
+background-color:map-get($bg ,"_black");
+color:map-get($color, _white);
+padding: 10px;
+font-weight: bold;
+padding-left: 10px;
+padding-right: 10px;
+height: 35px;
+
+.body-section {
+    margin-top: 20px;
+    color:map-get($color, _black);
+}
+
+}
