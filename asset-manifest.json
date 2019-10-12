@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/DashBoard.git/static/css/main.26aca678.chunk.css",
-    "main.js": "/DashBoard.git/static/js/main.a381e434.chunk.js",
-    "main.js.map": "/DashBoard.git/static/js/main.a381e434.chunk.js.map",
-    "runtime-main.js": "/DashBoard.git/static/js/runtime-main.93336ee1.js",
-    "runtime-main.js.map": "/DashBoard.git/static/js/runtime-main.93336ee1.js.map",
-    "static/js/2.411043fb.chunk.js": "/DashBoard.git/static/js/2.411043fb.chunk.js",
-    "static/js/2.411043fb.chunk.js.map": "/DashBoard.git/static/js/2.411043fb.chunk.js.map",
-    "index.html": "/DashBoard.git/index.html",
-    "precache-manifest.208da89d6d863519c7f0a7f243a52466.js": "/DashBoard.git/precache-manifest.208da89d6d863519c7f0a7f243a52466.js",
-    "service-worker.js": "/DashBoard.git/service-worker.js",
-    "static/css/main.26aca678.chunk.css.map": "/DashBoard.git/static/css/main.26aca678.chunk.css.map"
+    "main.css": "/DashBoard/static/css/main.26aca678.chunk.css",
+    "main.js": "/DashBoard/static/js/main.f8fd5a42.chunk.js",
+    "main.js.map": "/DashBoard/static/js/main.f8fd5a42.chunk.js.map",
+    "runtime-main.js": "/DashBoard/static/js/runtime-main.1f0bfd47.js",
+    "runtime-main.js.map": "/DashBoard/static/js/runtime-main.1f0bfd47.js.map",
+    "static/js/2.411043fb.chunk.js": "/DashBoard/static/js/2.411043fb.chunk.js",
+    "static/js/2.411043fb.chunk.js.map": "/DashBoard/static/js/2.411043fb.chunk.js.map",
+    "index.html": "/DashBoard/index.html",
+    "precache-manifest.a3465954739b719c5560a4c3d178a904.js": "/DashBoard/precache-manifest.a3465954739b719c5560a4c3d178a904.js",
+    "service-worker.js": "/DashBoard/service-worker.js",
+    "static/css/main.26aca678.chunk.css.map": "/DashBoard/static/css/main.26aca678.chunk.css.map"
   }
 }
