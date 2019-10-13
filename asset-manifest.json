@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/DashBoard/static/css/main.c49cbe20.chunk.css",
-    "main.js": "/DashBoard/static/js/main.a49ef13a.chunk.js",
-    "main.js.map": "/DashBoard/static/js/main.a49ef13a.chunk.js.map",
+    "main.css": "/DashBoard/static/css/main.35b94395.chunk.css",
+    "main.js": "/DashBoard/static/js/main.07988614.chunk.js",
+    "main.js.map": "/DashBoard/static/js/main.07988614.chunk.js.map",
     "runtime-main.js": "/DashBoard/static/js/runtime-main.1f0bfd47.js",
     "runtime-main.js.map": "/DashBoard/static/js/runtime-main.1f0bfd47.js.map",
     "static/js/2.d7e99b21.chunk.js": "/DashBoard/static/js/2.d7e99b21.chunk.js",
     "static/js/2.d7e99b21.chunk.js.map": "/DashBoard/static/js/2.d7e99b21.chunk.js.map",
     "index.html": "/DashBoard/index.html",
-    "precache-manifest.ea28b845176377568119a63d7c2dbdbf.js": "/DashBoard/precache-manifest.ea28b845176377568119a63d7c2dbdbf.js",
+    "precache-manifest.a5e18c4afd71d3fe609d53139855409d.js": "/DashBoard/precache-manifest.a5e18c4afd71d3fe609d53139855409d.js",
     "service-worker.js": "/DashBoard/service-worker.js",
-    "static/css/main.c49cbe20.chunk.css.map": "/DashBoard/static/css/main.c49cbe20.chunk.css.map",
+    "static/css/main.35b94395.chunk.css.map": "/DashBoard/static/css/main.35b94395.chunk.css.map",
     "static/media/main.scss": "/DashBoard/static/media/placeholder.395a5381.png"
   }
 }
